@@ -1,5 +1,5 @@
 # WizeBit-Blockchain-Beta-1.0
-WizeBit Blockchain
+### WizeBit Blockchain
 
 WizeBit network will be tightly connected with the financial component responsible for customers payments for the services according to pricing plans, accruals for the affiliate program, as well as funds contributed by users as a guarantee of providing their own disk space to the WizeBit network. To ensure reliable, highly loaded, maintaining absolute anonymity of users service, BlockChain system for storing financial information will be used.
 
